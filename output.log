@@ -1,0 +1,22 @@
+DEBUG:root:Esta é uma mensagem de debug
+INFO:root:Esta é uma mensagem de informação
+WARNING:root:Esta é uma mensagem de aviso
+ERROR:root:Esta é uma mensagem de erro
+CRITICAL:root:Esta é uma mensagem crítica
+DEBUG:root:Esta é uma mensagem de debug
+INFO:root:Esta é uma mensagem de informação
+WARNING:root:Esta é uma mensagem de aviso
+ERROR:root:Esta é uma mensagem de erro
+CRITICAL:root:Esta é uma mensagem crítica
+INFO:root:Aqui temos uma variável string e um int: 10
+2023-07-13 17:30:53,674: INFO: main
+2023-07-13 17:30:53,674: WARNING: main
+2023-07-13 17:32:21,502: INFO: main
+2023-07-13 17:32:21,502: WARNING: main
+2023-07-13 17:32:21,502: INFO: outra_funcao
+2023-07-13 17:34:19,885: INFO: main
+2023-07-13 17:34:19,888: WARNING: main
+2023-07-13 17:34:19,888: INFO: outra_funcao
+2023-07-13 17:35:33,289: INFO: main: Pessoa:jess
+2023-07-13 17:35:33,289: WARNING: main: Pessoa:jess
+2023-07-13 17:35:33,289: INFO: outra_funcao: Pessoa:jess
